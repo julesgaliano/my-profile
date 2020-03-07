@@ -1,0 +1,57 @@
+/* Colors and fonts */
+
+
+body{
+
+	background-image: url(image/arbre.jpeg);
+	font-size: 24px;
+  text-align: center;
+
+
+
+}
+
+h1 {
+  color: #ff7c7c;
+  texte-align: center;
+  font-family: 'Crimson Text', serif;
+  font-size: 50px;
+
+}
+h2 {
+  color: #ff6f5e;
+  text-align: center;
+  font-family: 'Crimson Text', serif;
+
+}
+p{
+  color: black;
+  font-size: 19px;
+  font-family: 'Quicksand', sans-serif;
+
+}
+
+div{
+
+    padding: 18px;
+    border-radius: 8px;
+    box-shadow: 0px 20px 45px rgba(50,50,93,.1);
+    margin: 45px;
+    text-align: center;
+    background-color: #f5f0e3;
+
+}
+
+  .img-circle{
+    border-radius: 25px;
+  }
+
+  #RS{
+    padding: 30px;
+    height: 74px;
+    width: 68px;
+    border-radius: 3px;
+  }
+
+
+
